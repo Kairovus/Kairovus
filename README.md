@@ -8,8 +8,9 @@ I'm Muhammad Rizki, an Undergraduate in Software Engineering Student in CCIT FTU
 - 📫 Reach me at: baharirizki3530@gmail.com
 
 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizki-dila-bahari)
-
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-rizki-dila-bahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad-Rizki" height="30" width="40" /></a>
+</p>
 Tools I've used before:
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
 
