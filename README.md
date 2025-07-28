@@ -9,6 +9,8 @@ I'm Muhammad Rizki, an Undergraduate in Software Engineering Student in CCIT FTU
 
 Connect With Me:
 <a href="https://linkedin.com/in/muhammad-rizki-dila-bahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad-Rizki" height="30" width="40" /></a>
+
+
 Tools I've used before:
 
 <p align="left">
