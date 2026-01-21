@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-I'm Muhammad Rizki, an Undergraduate in Software Engineering Student in CCIT FTUI, Computer Engineering Undergraduate in Universitas Indonesia, and a Martial Arts Enthusiast 
+I'm Muhammad Rizki, Computer Engineering Undergraduate in Universitas Indonesia, and a Martial Arts Enthusiast 
 
 
 - 🌱 I’m learning: Next.js, Prisma, Tailwind
