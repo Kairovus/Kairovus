@@ -1,27 +1,27 @@
 
 
 
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi there </h1>
 
 <p align="left">
-I'm <b>Muhammad Rizki</b>, a Computer Engineering undergraduate at Universitas Indonesia, and a martial arts enthusiast.
+I'm <b>Muhammad Rizki</b>, a Computer Engineering undergraduate at Universitas Indonesia.
 </p>
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 * Next.js
 * Prisma
 * Tailwind CSS
 
-### 📫 Contact
+### Contact
 
 * Email: [baharirizki3530@gmail.com](mailto:baharirizki3530@gmail.com)
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-rizki-dila-bahari" target="_blank">
